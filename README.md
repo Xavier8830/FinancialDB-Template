@@ -1,4 +1,7 @@
 # FinancialDB – Template PostgreSQL
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 **Autore:** Saverio Zitoli  
 **Versione:** 1.0  
 **Database Template per gestione finanziaria, pratiche, investimenti e reportistica avanzata.**
