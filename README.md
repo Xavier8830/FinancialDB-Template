@@ -44,6 +44,30 @@ FinancialDB-Template/
         ├── delete_examples.sql
         └── select_examples.sql
 ```
+## Installazione Rapida
+
+1. Clona il repository:
+   git clone https://github.com/Xavier8830/FinancialDB-Template.git
+
+2. Entra nella cartella del progetto:
+   cd FinancialDB-Template
+
+3. Esegui lo script di installazione:
+   psql -f install.sql
+
+4. (Opzionale) Popola il database con dati di esempio:
+   psql -f schema/sample_data.sql
+
+Il database sarà pronto all'uso.
+
+```
+## 🗺️ Roadmap
+
+- v1.1: Aggiunta viste avanzate per analisi finanziaria
+- v1.2: Reportistica automatizzata (PDF/CSV)
+- v1.3: Dashboard grafica con aggregazioni
+
+```
 ## 🚀 Installazione
 
 ```sql
