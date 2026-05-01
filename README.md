@@ -18,7 +18,17 @@ FinancialDB è un template SQL professionale progettato per studi, consulenti e 
 Il progetto include script completi per installazione, disinstallazione, reset e popolamento dati di esempio.
 
 ---
+## ✨ Features
 
+- Struttura SQL professionale e modulare
+- Tabelle ottimizzate per pratiche, clienti, pagamenti e investimenti
+- Script completi: installazione, reset, disinstallazione
+- Viste per analisi finanziaria e reportistica
+- Dati di esempio per test e sviluppo
+- Esempi SQL (insert, update, delete, select)
+- Compatibile con PostgreSQL
+- Facilmente estendibile per studi e consulenti
+---
 ## 📦 Struttura del Progetto
 
 ```
