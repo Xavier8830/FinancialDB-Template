@@ -18,17 +18,30 @@ FinancialDB è un template SQL professionale progettato per studi, consulenti e 
 Il progetto include script completi per installazione, disinstallazione, reset e popolamento dati di esempio.
 
 ---
+
 ## ✨ Features
 
-- Struttura SQL professionale e modulare
-- Tabelle ottimizzate per pratiche, clienti, pagamenti e investimenti
-- Script completi: installazione, reset, disinstallazione
-- Viste per analisi finanziaria e reportistica
-- Dati di esempio per test e sviluppo
-- Esempi SQL (insert, update, delete, select)
-- Compatibile con PostgreSQL
-- Facilmente estendibile per studi e consulenti
+- Struttura SQL professionale e modulare  
+- Tabelle ottimizzate per pratiche, clienti, pagamenti e investimenti  
+- Script completi: installazione, reset, disinstallazione  
+- Viste per analisi finanziaria e reportistica  
+- Dati di esempio per test e sviluppo  
+- Esempi SQL (insert, update, delete, select)  
+- Compatibile con PostgreSQL  
+- Facilmente estendibile per studi e consulenti  
+
 ---
+
+## 🧩 Use Cases
+
+- Studi professionali che gestiscono pratiche finanziarie  
+- Consulenti che necessitano di una base dati solida e modulare  
+- Sviluppatori che vogliono integrare funzioni finanziarie nei propri software  
+- Applicazioni che richiedono viste e reportistica avanzata  
+- Progetti didattici o formativi su SQL e database finanziari  
+
+---
+
 ## 📦 Struttura del Progetto
 
 ```
@@ -54,45 +67,59 @@ FinancialDB-Template/
         ├── delete_examples.sql
         └── select_examples.sql
 ```
-## Installazione Rapida
 
-1. Clona il repository:
-   git clone https://github.com/Xavier8830/FinancialDB-Template.git
+---
 
-2. Entra nella cartella del progetto:
-   cd FinancialDB-Template
+## 🚀 Installazione Rapida
 
-3. Esegui lo script di installazione:
-   psql -f install.sql
+1. Clona il repository:  
+   `git clone https://github.com/Xavier8830/FinancialDB-Template.git`
 
-4. (Opzionale) Popola il database con dati di esempio:
-   psql -f schema/sample_data.sql
+2. Entra nella cartella del progetto:  
+   `cd FinancialDB-Template`
+
+3. Esegui lo script di installazione:  
+   `psql -f install.sql`
+
+4. (Opzionale) Popola il database con dati di esempio:  
+   `psql -f schema/sample_data.sql`
 
 Il database sarà pronto all'uso.
 
-```
+---
+
 ## 🗺️ Roadmap
 
-- v1.1: Aggiunta viste avanzate per analisi finanziaria
-- v1.2: Reportistica automatizzata (PDF/CSV)
-- v1.3: Dashboard grafica con aggregazioni
+- v1.1: Aggiunta viste avanzate per analisi finanziaria  
+- v1.2: Reportistica automatizzata (PDF/CSV)  
+- v1.3: Dashboard grafica con aggregazioni  
 
-```
-## 🚀 Installazione
+---
+
+## 🔧 Installazione Manuale
 
 ```sql
 \i 'C:/Users/User/Desktop/FinancialDB-Template/install.sql'
 ```
+
+---
+
 ## 🔄 Reset Completo
 
 ```sql
 \i 'C:/Users/User/Desktop/FinancialDB-Template/reset.sql'
 ```
+
+---
+
 ## 🧹 Disinstallazione
 
 ```sql
 \i 'C:/Users/User/Desktop/FinancialDB-Template/uninstall.sql'
 ```
+
+---
+
 ## 📊 Viste Principali
 
 - dashboard_finanziaria  
@@ -105,6 +132,9 @@ Il database sarà pronto all'uso.
 - esposizione_clienti  
 - pratiche_dettaglio  
 - rischio_clienti  
+
+---
+
 ## 🧪 Dati di Esempio
 
 Lo script `insert_examples.sql` inserisce:
@@ -114,15 +144,31 @@ Lo script `insert_examples.sql` inserisce:
 - 3 titoli  
 - 3 sottoscrizioni  
 - 3 pagamenti  
+
+---
+
 ## 📁 Note per la Produzione
 
 - rimuovere `insert_examples.sql`  
 - aggiungere indici in base al carico  
 - configurare backup automatici  
 - usare un database dedicato  
+
+---
+
+## 🤝 Contributing
+
+Contributi, segnalazioni e miglioramenti sono benvenuti.  
+Apri una issue o invia una pull request per proporre modifiche.
+
+---
+
 ## 📌 Licenza
 
 Il progetto può essere distribuito con licenza MIT, Apache 2.0 o altra licenza a scelta dell’autore.
+
+---
+
 ## 📞 Contatti
 
 Saverio Zitoli – Tributarista Qualificato INT  
