@@ -43,6 +43,17 @@ FinancialDB-Template è progettato per essere flessibile e portabile tra diversi
 - **SQLite**  
   Versione dedicata per ambienti leggeri, test locali e applicazioni embedded.  
   Gli script sono disponibili in: `sql/sqlite/`
+
+---
+
+## 🧩 Diagramma ER
+
+Il progetto include un diagramma entità‑relazioni per visualizzare la struttura del database e le relazioni principali tra tabelle.
+
+Il file è disponibile nella cartella `schema/`:
+
+![ER Diagram](schema/ER-diagram.png)
+
 ---
 
 ## 📦 Struttura del Progetto
