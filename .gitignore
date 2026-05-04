@@ -1,0 +1,44 @@
+# ============================
+#   FinancialDB-Template
+#   .gitignore ottimizzato
+# ============================
+
+# --- File di sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Backup e file temporanei ---
+*.bak
+*.tmp
+*.temp
+*.old
+*.swp
+*.swo
+
+# --- File SQL generati automaticamente ---
+*.sql~
+*~.sql
+
+# --- Log ---
+*.log
+
+# --- Output di editor ---
+*.vscode
+.vscode/
+.idea/
+*.iml
+
+# --- File di database locali ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- File compressi ---
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# --- File di configurazione locali (non versionare) ---
+.env
+*.local
