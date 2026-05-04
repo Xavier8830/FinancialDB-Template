@@ -32,6 +32,19 @@ Il progetto include script completi per installazione, disinstallazione, reset e
 
 ---
 
+## 🗄️ Supporto Database
+
+FinancialDB-Template è progettato per essere flessibile e portabile tra diversi motori SQL.
+
+- **PostgreSQL**  
+  Struttura completa con tabelle, viste, dashboard, report e script di esempio.  
+  Gli script sono disponibili in: `sql/postgresql/`
+
+- **SQLite**  
+  Versione dedicata per ambienti leggeri, test locali e applicazioni embedded.  
+  Gli script sono disponibili in: `sql/sqlite/`
+---
+
 ## 📦 Struttura del Progetto
 
 ```
