@@ -32,16 +32,6 @@ Il progetto include script completi per installazione, disinstallazione, reset e
 
 ---
 
-## 🧩 Use Cases
-
-- Studi professionali che gestiscono pratiche finanziarie  
-- Consulenti che necessitano di una base dati solida e modulare  
-- Sviluppatori che vogliono integrare funzioni finanziarie nei propri software  
-- Applicazioni che richiedono viste e reportistica avanzata  
-- Progetti didattici o formativi su SQL e database finanziari  
-
----
-
 ## 📦 Struttura del Progetto
 
 ```
@@ -70,7 +60,7 @@ FinancialDB-Template/
 
 ---
 
-## 🚀 Installazione Rapida
+## Installazione Rapida
 
 1. Clona il repository:  
    `git clone https://github.com/Xavier8830/FinancialDB-Template.git`
@@ -96,7 +86,7 @@ Il database sarà pronto all'uso.
 
 ---
 
-## 🔧 Installazione Manuale
+## 🚀 Installazione
 
 ```sql
 \i 'C:/Users/User/Desktop/FinancialDB-Template/install.sql'
@@ -153,13 +143,6 @@ Lo script `insert_examples.sql` inserisce:
 - aggiungere indici in base al carico  
 - configurare backup automatici  
 - usare un database dedicato  
-
----
-
-## 🤝 Contributing
-
-Contributi, segnalazioni e miglioramenti sono benvenuti.  
-Apri una issue o invia una pull request per proporre modifiche.
 
 ---
 
