@@ -180,6 +180,6 @@ Il progetto può essere distribuito con licenza MIT, Apache 2.0 o altra licenza 
 
 Saverio Zitoli – Tributarista Qualificato INT  
 Consulenza fiscale, finanziaria e sviluppo database.
+
 Per richieste tecniche o professionali relative al progetto:
 📩 saverio.zitoli.taxadvisor@outlook.it
-
