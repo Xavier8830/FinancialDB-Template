@@ -183,3 +183,12 @@ Consulenza fiscale, finanziaria e sviluppo database.
 
 Per richieste tecniche o professionali relative al progetto:
 📩 saverio.zitoli.taxadvisor@outlook.it
+
+---
+
+## 💼 Servizi Professionali
+
+Servizi tecnici relativi al progetto FinancialDB sono disponibili su richiesta.
+
+Per informazioni:
+📩 saverio.zitoli.taxadvisor@outlook.it
