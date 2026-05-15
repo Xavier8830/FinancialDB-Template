@@ -178,7 +178,7 @@ Il progetto può essere distribuito con licenza MIT, Apache 2.0 o altra licenza 
 
 ## 📞 Contatti
 
-Saverio Zitoli – Tributarista Qualificato INT  
+Saverio Zitoli – Tributarista Qualificato INT ex lege 4/2013  
 Consulenza fiscale, finanziaria e sviluppo database.
 
 Per richieste tecniche o professionali relative al progetto:
